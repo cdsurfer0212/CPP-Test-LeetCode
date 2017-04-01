@@ -7,6 +7,7 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		B2005EC81D50C7A9009A2C73 /* pow.cpp in Sources */ = {isa = PBXBuildFile; fileRef = B2005EC71D50C7A9009A2C73 /* pow.cpp */; };
 		B2AE6A651D217D0200F6C997 /* addTwoNumbers.cpp in Sources */ = {isa = PBXBuildFile; fileRef = B2AE6A631D217D0200F6C997 /* addTwoNumbers.cpp */; };
 		B2B5DB811D1D1A6F00C2C94C /* main.cpp in Sources */ = {isa = PBXBuildFile; fileRef = B2B5DB801D1D1A6F00C2C94C /* main.cpp */; };
 		B2E0E2E61D4A62E900C78BA8 /* longestSubstringWithoutRepeatingCharacters.cpp in Sources */ = {isa = PBXBuildFile; fileRef = B2E0E2E41D4A62E900C78BA8 /* longestSubstringWithoutRepeatingCharacters.cpp */; };
@@ -25,6 +26,7 @@
 /* End PBXCopyFilesBuildPhase section */
 
 /* Begin PBXFileReference section */
+		B2005EC71D50C7A9009A2C73 /* pow.cpp */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.cpp.cpp; path = pow.cpp; sourceTree = "<group>"; };
 		B20295E21D26BE9A002BDC96 /* LinkedList.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; name = LinkedList.h; path = Util/LinkedList.h; sourceTree = "<group>"; };
 		B2AE6A631D217D0200F6C997 /* addTwoNumbers.cpp */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.cpp.cpp; path = addTwoNumbers.cpp; sourceTree = "<group>"; };
 		B2AE6A6B1D226BE900F6C997 /* ListNode.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; name = ListNode.h; path = Util/ListNode.h; sourceTree = "<group>"; };
@@ -76,6 +78,7 @@
 				B2B5DB801D1D1A6F00C2C94C /* main.cpp */,
 				B2AE6A631D217D0200F6C997 /* addTwoNumbers.cpp */,
 				B2E0E2E41D4A62E900C78BA8 /* longestSubstringWithoutRepeatingCharacters.cpp */,
+				B2005EC71D50C7A9009A2C73 /* pow.cpp */,
 			);
 			path = LeetCode;
 			sourceTree = "<group>";
@@ -138,6 +141,7 @@
 			files = (
 				B2B5DB811D1D1A6F00C2C94C /* main.cpp in Sources */,
 				B2E0E2E61D4A62E900C78BA8 /* longestSubstringWithoutRepeatingCharacters.cpp in Sources */,
+				B2005EC81D50C7A9009A2C73 /* pow.cpp in Sources */,
 				B2AE6A651D217D0200F6C997 /* addTwoNumbers.cpp in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
